@@ -2,6 +2,7 @@ name: vita
 favicon: null
 layout_spectrum: 0.9399592720437795
 typography_spectrum: 0.6587014857213944
+title: Vita
 cta:
   domain: null
   bucket: null
